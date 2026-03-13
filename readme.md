@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://img.shields.io/badge/MARKHOR-ATHEX%20IT%20HOUSE-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=24243e" width="100%"/>
+<img src="https://img.shields.io/badge/MARKHOR-TEAM%20ATHEX%20HACKERS-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=24243e" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/markhor571">
