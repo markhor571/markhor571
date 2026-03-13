@@ -28,12 +28,12 @@
 </div>
 
 ```bash
-┌──(markhor571㉿ATHEX-IT-HOUSE)-[~]
+┌──(markhor571㉿TEAM-ATHEX)-[~]
 └─$ whoami
 
   Name     : MARKHOR
-  Team     : ATHEX (Team Athex Hacker)
-  Location : 🌍 Pakistan
+  Team     : TEAM ATHEX
+  Location : 🌍 EveryWhere Pakistan (ANONYMOUS)
   Mission  : Hack. Automate. Dominate.
 
   Roles    : [Hacker] [AI Engineer] [Crypto Trader]
