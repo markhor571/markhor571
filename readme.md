@@ -176,11 +176,9 @@
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/markhor571/markhor571/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/markhor571/markhor571/raw/output/github-contribution-grid-snake.svg" />
-  <img src="https://github.com/markhor571/markhor571/blob/main/assets/github-snake.svg" alt="snake" width="100%"/>
-</picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markhor571&theme=github_dark" width="100%"/>
+</p>
 
 </div>
 
