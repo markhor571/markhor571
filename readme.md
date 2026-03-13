@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MARKHOR&fontSize=80&fontColor=00f5ff&fontAlignY=38&desc=ATHEX%20IT%20HOUSE%20%7C%20Team%20Athex%20Hacker&descColor=a78bfa&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://img.shields.io/badge/MARKHOR-ATHEX%20IT%20HOUSE-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=24243e" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/markhor571">
