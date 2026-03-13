@@ -179,7 +179,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/markhor571/markhor571/raw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/markhor571/markhor571/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/markhor571/markhor571/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/markhor571/markhor571/blob/main/assets/github-snake.svg" alt="snake" width="100%"/>
 </picture>
 
 </div>
