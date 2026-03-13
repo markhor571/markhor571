@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://github.com/markhor571">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🔐+Hacker+%7C+TEAM+ATHEX;🤖+AI+Automation+%26+Workflow+Engineer;📦+Amazon+FBA+%2F+FBM+Expert;💹+Crypto+Trader+%26+Market+Analyst;📣+Digital+Marketing+%26+Paid+Ads+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🔐+MARKHOR+%7C+TEAM+ATHEX;🤖+AI+Automation+%26+Workflow+Engineer;📦+Amazon+FBA+%2F+FBM+Expert;💹+Crypto+Trader+%26+Market+Analyst;📣+Digital+Marketing+%26+Paid+Ads+Specialist" alt="Typing SVG" />
 </p>
 </a>
 
